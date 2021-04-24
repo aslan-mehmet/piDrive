@@ -1,0 +1,1 @@
+usbSize="4096000" #in bytes
