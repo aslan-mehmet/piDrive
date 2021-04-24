@@ -29,3 +29,8 @@ On Windows works via [git bash](https://git-scm.com/downloads)
     $ ./connectUSB.sh # for connecting usb drive
     $ ./disconnectUSB.sh # for disconnecting
     ```
+
+## Tests
+![Alt text](doc/testUbuntu.png?raw=true "")  
+![Alt text](doc/testWin.PNG?raw=true "")  
+
