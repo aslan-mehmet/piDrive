@@ -1,1 +1,1 @@
-usbSize="4096000" #in bytes
+usbSize="4096000" #configure here (in bytes)
