@@ -7,7 +7,8 @@ Available on Windows and Linux
 On Windows works via [git bash](https://git-scm.com/downloads)
 
 ## How To Setup
-1. Connect cables
+1. Connect cables  
+
     ![Alt text](doc/connections.png?raw=true "")
 2. Execute below shell commands
     ```console
@@ -24,6 +25,7 @@ On Windows works via [git bash](https://git-scm.com/downloads)
     ```console
     $ #on terminal
     $ cd piUSBDrive/pcRemoteUSBDrive
+    $ cp <somefile> ./usbShare
     $ ./connectUSB.sh # for connecting usb drive
     $ ./disconnectUSB.sh # for disconnecting
     ```
